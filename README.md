@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-**Founder & CEO @ NeXCash** | **Team Lead @ Intelik** | **Cyber Security Student @ FAST-NUCES**
+**Founder & CEO @ NeXCash** | **Team Lead @ Intelik** | **Cyber Security Graduate @ FAST-NUCES**
 
 I'm a passionate **Tech Entrepreneur** and **Full-Stack Developer** specializing in **Blockchain**, **AI/ML**, and **Cybersecurity**. Currently building the future of fintech with secure P2P lending and digital payment solutions.
 
